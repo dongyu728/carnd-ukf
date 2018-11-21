@@ -1,4 +1,4 @@
-# CarND-Extended-Kalman-Filter
+# CarND-Unscented-Kalman-Filter
 Udacity Self-Driving Car Engineer Nanodegree Program, Term 2 ,Project 2 - Unscented Kalman Filter 
 
 ## Project Basics
@@ -16,16 +16,17 @@ I was build in Ubuntu 16.04:
 4. Run it: `./ExtendedKF`
 
 ## Results
-There are two dataset.
-px:x-position
-py:y-position
-vx:velocity in the x-direction
-vy:velocity in the y-direction
-MSE:mean squared error
+There are two dataset.  
+px:x-position  
+py:y-position  
+vx:velocity in the x-direction  
+vy:velocity in the y-direction  
+MSE:mean squared error  
 
-The UKF accuracy was:
+The UKF accuracy was:  
 
 Dataset 1 : RMSE = [0.0724, 0.0822, 0.3425, 0.2304]
+
 Dataset 2 : RMSE = [0.0882, 0.0713, 0.6632, 0.3073]
 
 
